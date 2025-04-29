@@ -12,6 +12,8 @@ if (!$conn) {
 } else {
     echo 'MySQL 연결 성공!';
     echo 'MySQL 연결 성공test';
+    echo 'test22
     
+    ';
 }
 ?>
